@@ -1,6 +1,6 @@
-# Technology radar
+# Technology radar template
 
-This tool shows my skills and directions in which I intend to develop.
+For further implementation in production environment.
 
 ## Local Development
 
@@ -21,14 +21,7 @@ yarn dev
 
 ## Deployment
 
-
-1. configure deployment url
-
-```bash
-export PUBLIC_URL=https://yaneek.github.io/tech-radar/
-```
-
-2. build
+1. build
 
 ```bash
 yarn lint
@@ -37,7 +30,7 @@ yarn build
 
 
 ## History
-
+Fork based [yaneek's tech radar](https://github.com/yaneek/tech-radar)
 Private technology radar based on [Zalando's tech-radar](https://github.com/zalando/tech-radar). Thanks Zalando's team for their code. Base project was completely refactored but visualization concepts still exists :)
 - extracted tens of visualization functions
 - added React library to render filters & footer
