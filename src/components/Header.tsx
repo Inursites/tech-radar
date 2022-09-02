@@ -6,7 +6,7 @@ export class Header extends React.Component {
   render = () => (
     <>
       <Typography variant="h4">
-        Technology radar
+        Awesome Web3 Radar
       </Typography>
 
       <Typography variant="subtitle1">
