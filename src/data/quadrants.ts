@@ -2,19 +2,19 @@ import { IQuadrant } from '../types/IQuadrant';
 
 export const QUADRANTS: IQuadrant[] = [
   {
-    name: 'Languages & methodologies',
-    tags: ['q0-languages'],
+    name: 'Technology',
+    tags: ['q0-technology'],
   },
   {
-    name: 'Infrastructure & utilities',
-    tags: ['q1-infrastructure'],
+    name: 'Education',
+    tags: ['q1-education'],
   },
   {
-    name: 'Development tools',
-    tags: ['q2-frameworks'],
+    name: 'DAOs',
+    tags: ['q2-daos'],
   },
   {
-    name: 'Data Management',
-    tags: ['q3-data-management']
+    name: 'Web3',
+    tags: ['q3-web3']
   },
 ];

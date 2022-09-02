@@ -2,65 +2,65 @@ import { IEntry } from '../types/IEntry';
 
 export const ALL_ENTRIES: IEntry[] = [
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Cypher',
     'link': 'https://neo4j.com/developer/cypher/',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development',
       'graph',
     ],
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'SQL',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development',
       'sql'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'JSON Schema',
     'link': 'https://json-schema.org/',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development',
       'test'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Swagger',
     'link': 'https://swagger.io/',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development',
       'design'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'OpenAPI',
     'link': 'https://swagger.io/blog/news/announcing-openapi-3-0/',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development',
       'design'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'GraphQL',
     'link': 'https://graphql.org/',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development',
       'design',
@@ -68,88 +68,88 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Javascript',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development'
     ],
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Typescript',
     'link': 'https://www.typescriptlang.org/',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'PHP',
     'link': 'http://www.php.net/',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development'
     ]
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'Python',
     'link': 'https://www.python.org/',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Bash',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development',
       'dev-ops'
     ]
   },
   {
-    'ring': 'REJECT',
+    'ring': 'Big',
     'label': 'Golang',
     'link': 'https://golang.org/',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Java',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'C#',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'language',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Docker',
     'link': 'https://www.docker.com/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'utility',
       'development',
@@ -159,11 +159,11 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Docker Compose',
     'link': 'https://docs.docker.com/compose/overview/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'utility',
       'development',
@@ -173,11 +173,11 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Vagrant',
     'link': 'https://www.vagrantup.com/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'utility',
       'development',
@@ -185,22 +185,22 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'TRIAL',
+    'ring': 'Big',
     'label': 'Rancher',
     'link': 'https://rancher.com/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'containerization',
       'dev-ops',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Kubernetes',
     'link': 'https://kubernetes.io/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'microservices',
       'containerization',
@@ -208,177 +208,177 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Jenkins',
     'link': 'https://jenkins.io/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility',
       'CI / CD',
       'dev-ops',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Heroku',
     'link': 'https://heroku.com/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'CI / CD',
       'dev-ops',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Travis',
     'link': 'https://travis-ci.org/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility',
       'CI / CD',
       'dev-ops',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Gitlab CI',
     'link': 'https://about.gitlab.com/product/continuous-integration/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'CI / CD',
       'development',
       'dev-ops',
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Bitbucket pipelines',
     'link': 'https://bitbucket.org/product/features/pipelines',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility',
       'CI / CD',
       'dev-ops',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'JMeter',
     'link': 'https://jmeter.apache.org/',
     'visible': false,
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility',
       'test',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Postman',
     'visible': false,
     'link': 'https://www.getpostman.com/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility',
       'test',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Gitlab',
     'link': 'https://about.gitlab.com/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'JIRA',
     'link': 'https://www.atlassian.com/software/jira',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Slack',
     'visible': false,
     'link': 'https://slack.com/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Skype',
     'visible': false,
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'draw.io',
     'link': 'https://www.draw.io/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility',
       'design'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'BalsamiQ',
     'link': 'https://balsamiq.com/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility',
       'design'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'XMind',
     'link': 'https://www.xmind.net/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility',
       'design'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'VSC',
     'visible': false,
     'link': 'https://code.visualstudio.com/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'PHP Storm',
     'link': 'https://www.jetbrains.com/phpstorm/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility',
       'development'
     ]
   },
   {
-    'ring': 'REJECT',
+    'ring': 'Big',
     'label': 'Azure functions',
     'link': 'https://azure.microsoft.com/en-us/services/functions/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'deployment',
       'serverless',
@@ -387,11 +387,11 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'AWS Lambda',
     'link': 'https://aws.amazon.com/lambda/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'deployment',
       'serverless',
@@ -400,11 +400,11 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'AWS S3',
     'link': 'https://aws.amazon.com/s3/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'database',
       'dev-ops',
@@ -413,22 +413,22 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'Minio',
     'link': 'https://www.minio.io/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'database',
       'dev-ops',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Google Cloud',
     'link': 'https://cloud.google.com/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'deployment',
       'dev-ops',
@@ -436,11 +436,11 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'AWS EC2',
     'link': 'https://aws.amazon.com/ec2/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'deployment',
       'dev-ops',
@@ -448,31 +448,31 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'AWS EMR',
     'link': 'https://aws.amazon.com/emr/',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'cloud',
       'big-data'
     ]
   },
   {
-    'ring': 'TRIAL',
+    'ring': 'Big',
     'label': 'Hadoop',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'infrastructure',
       'cloud',
       'big-data'
     ]
   },
   {
-    'ring': 'TRIAL',
+    'ring': 'Big',
     'label': 'HDFS',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'infrastructure',
       'cloud',
       'database',
@@ -480,49 +480,49 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Ubuntu',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'development',
       'dev-ops',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Alpine',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'deployment',
       'dev-ops',
     ]
   },
   {
-    'ring': 'TRIAL',
+    'ring': 'Big',
     'label': 'Raspberry PI',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'iot'
     ]
   },
   {
-    'ring': 'REJECT',
+    'ring': 'Big',
     'label': 'Intel Neural Compute Stick',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'iot',
       'machine-learning',
     ]
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'AWS ECS',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'deployment',
       'containerization',
@@ -531,10 +531,10 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'AWS EKS',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'deployment',
       'containerization',
@@ -543,10 +543,10 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'AWS Fargate',
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'infrastructure',
       'deployment',
       'containerization',
@@ -555,344 +555,344 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Trello',
     'visible': false,
     'tags': [
-      'q1-infrastructure',
+      'q1-education',
       'utility'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'EditorConfig',
     'link': 'https://editorconfig.org/',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Browsersync',
     'link': 'https://browsersync.io/',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Supertest',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development-tool',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'RC',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development'
     ]
   },
   // {
-  //   'ring': 'ADOPT',
+  //   'ring': 'Short',
   //   'label': 'Moment.js',
   //   'tags': [
-  //     'q2-frameworks',
+  //     'q2-daos',
   //     'library',
   //     'development'
   //   ],
   //   link: 'https://momentjs.com/',
   // },
   // {
-  //   'ring': 'ADOPT',
+  //   'ring': 'Short',
   //   'label': 'Luxon',
   //   'tags': [
-  //     'q2-frameworks',
+  //     'q2-daos',
   //     'library',
   //     'development'
   //   ],
   //   link: 'https://moment.github.io/luxon/',
   // },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'TypeDI',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Apollo Server',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Nodemon',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Winston',
     'link': 'https://github.com/winstonjs/winston',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Passport',
     'link': 'http://www.passportjs.org/',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'SenecaJS',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development',
       'microservices'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Bower',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Webpack',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development'
     ]
   },
   {
-    'ring': 'TRIAL',
+    'ring': 'Big',
     'label': 'Strapi',
     'link': 'https://strapi.io/',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development'
     ]
   },
   {
-    'ring': 'REJECT',
+    'ring': 'Big',
     'label': 'KeystoneJS',
     'link': 'https://keystonejs.com/',
     'visible': false,
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Puppeteer',
     'link': 'https://pptr.dev/',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Mongoose',
     'link': 'https://mongoosejs.com/',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Yarn',
     'link': 'https://yarnpkg.com/lang/en/',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'ESLint',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'TypeORM',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'TSLint',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'npm',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'grunt',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development',
       'deployment'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'gulp',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development'
     ]
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'Rxjs',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Node.js',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development'
     ]
   },
   {
-    'ring': 'REJECT',
+    'ring': 'Big',
     'label': 'Tensor flow',
     'visible': false,
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'machine-learning',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Nest.js',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'ZendFramework',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Silex',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development'
     ]
   },
   {
-    'ring': 'REJECT',
+    'ring': 'Big',
     'label': 'Slim',
     'visible': false,
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Symfony',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'PHP Unit',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development',
       'test'
     ]
   },
   {
-    'ring': 'TRIAL',
+    'ring': 'Big',
     'label': 'Blackfire.io',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development',
       'test'
@@ -900,30 +900,30 @@ export const ALL_ENTRIES: IEntry[] = [
     'link': 'https://blackfire.io/'
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Mocha',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development',
       'test'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Jest',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'development-tool',
       'development',
       'test'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Chai',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development',
       'test'
@@ -931,46 +931,46 @@ export const ALL_ENTRIES: IEntry[] = [
     link: 'https://www.chaijs.com/'
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'ExpressJS',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Lodash',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Dust.js',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'jQuery',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development'
     ]
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'Serverless',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development',
       'serverless'
@@ -978,67 +978,67 @@ export const ALL_ENTRIES: IEntry[] = [
     'link': 'https://serverless.com/'
   },
   {
-    'ring': 'TRIAL',
+    'ring': 'Big',
     'label': 'Moleculer',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development',
       'microservices'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'React',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development'
     ]
   },
   {
-    'ring': 'REJECT',
+    'ring': 'Big',
     'label': 'Vue.js',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development'
     ]
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'Redux',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development'
     ]
   },
   {
-    'ring': 'REJECT',
+    'ring': 'Big',
     'label': 'Angular',
     "visible": false,
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Next.js',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development'
     ],
     "link": "https://nextjs.org/"
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Prisma',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'framework',
       'development',
       'orm'
@@ -1046,174 +1046,174 @@ export const ALL_ENTRIES: IEntry[] = [
     'link': 'https://www.prisma.io/'
   },
   {
-    'ring': 'REJECT',
+    'ring': 'Big',
     'label': 'MobX',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
       'development'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'MongoDB',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'no-sql',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Elasticsearch',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'no-sql',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Kibana',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Redis',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'no-sql',
     ]
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'Redis Graph',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'graph',
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Memcached',
     'link': 'https://memcached.org/',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
     ]
   },
   {
-    'ring': 'REJECT',
+    'ring': 'Big',
     'label': 'Aerospike',
     'link': 'https://www.aerospike.com/',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'no-sql',
       'sql',
     ]
   },
   {
-    'ring': 'REJECT',
+    'ring': 'Big',
     'label': 'Apache Ignite',
     'link': 'https://ignite.apache.org/',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'sql',
       'no-sql',
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Apache PredictionIO',
     'link': 'https://predictionio.apache.org/',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'machine-learning'
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Neo4j',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'graph',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'ONgDB',
     'link': 'https://www.graphfoundation.org/projects/ongdb/',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'graph',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'RabbitMQ',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'queue',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'xml',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'data-structure',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'JSON',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'data-structure',
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'soap',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'protocol',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'MySql',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'sql'
     ]
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'Interbase',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'sql',
     ]
   },
   {
-    'ring': 'TRIAL',
+    'ring': 'Big',
     'label': 'Loki.js',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'library',
       'no-sql',
@@ -1221,10 +1221,10 @@ export const ALL_ENTRIES: IEntry[] = [
     'link': 'http://lokijs.org/'
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'Consul',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'service-discovery',
       'dev-ops',
@@ -1233,28 +1233,28 @@ export const ALL_ENTRIES: IEntry[] = [
     'link': 'https://www.consul.io/'
   },
   {
-    'ring': 'HOLD',
+    'ring': 'Massive',
     'label': 'SQL Server',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'sql'
     ]
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'MariaDB',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'sql'
     ]
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'etcd',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'database',
       'service-discovery',
       'dev-ops',
@@ -1262,26 +1262,26 @@ export const ALL_ENTRIES: IEntry[] = [
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'REST',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'protocol',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'oAuth2',
     'tags': [
-      'q3-data-management',
+      'q3-web3',
       'protocol',
     ]
   },
   {
-    'ring': 'ASSESS',
+    'ring': 'Medium',
     'label': 'Material UI',
     'tags': [
-      'q2-frameworks',
+      'q2-daos',
       'library',
     ]
   },
@@ -1289,127 +1289,127 @@ export const ALL_ENTRIES: IEntry[] = [
 
   // ----- metodologie
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Git Flow',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'methodology',
     ],
     link: 'https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow'
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Agile Manifesto',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'methodology',
       'agile',
     ],
     link: 'https://agilemanifesto.org/iso/en/principles.html'
   },
   {
-    'ring': 'TRIAL',
+    'ring': 'Big',
     'label': 'XP',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'methodology',
       'agile',
     ],
     link: 'http://www.extremeprogramming.org/rules.html'
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Scrum',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'methodology',
       'agile',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'TDD',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'methodology',
       'test'
     ],
     'link': 'https://en.wikipedia.org/wiki/Test-driven_development'
   },
   {
-    'ring': 'TRIAL',
+    'ring': 'Big',
     'label': 'Lean',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'methodology',
       'agile',
     ],
     'link': 'https://leankit.com/learn/lean/principles-of-lean-development/'
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Angular Style Commits',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'methodology',
     ],
     'link': 'https://gist.github.com/stephenparish/9941e89d80e2bc58a153'
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'API Driven Development',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'methodology',
       'design',
     ],
     'link': 'https://blog.restcase.com/api-driven-development/'
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'SOLID',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'principle',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'KISS',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'principle',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'DRY',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'principle',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'OOP',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'paradigm',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Functional programming',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'paradigm',
     ]
   },
   {
-    'ring': 'ADOPT',
+    'ring': 'Short',
     'label': 'Remote manifesto',
     'tags': [
-      'q0-languages',
+      'q0-technology',
       'methodology',
       'agile',
     ],

@@ -310,7 +310,6 @@ export function showRadar(config: RadarOptions) {
   // footer
   radar.append('text')
     .attr('transform', translate(FOOTER_OFFSET.x, FOOTER_OFFSET.y))
-    .text('▲ moved up     ▼ moved down')
     .attr('xml:space', 'preserve')
     .style('font-family', 'Arial, Helvetica')
     .style('font-size', '10');

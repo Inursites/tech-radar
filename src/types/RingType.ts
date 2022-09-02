@@ -1,1 +1,1 @@
-export type RingType = 'ADOPT' | 'TRIAL' | 'ASSESS' | 'HOLD' | 'REJECT';
+export type RingType = 'Short' | 'Medium' | 'Big' | 'Massive';
