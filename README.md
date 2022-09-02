@@ -1,4 +1,4 @@
-# Technology radar template
+# Awesome Web3, radar template
 
 For further implementation in production environment.
 
@@ -30,7 +30,7 @@ yarn build
 
 
 ## History
-Fork based [yaneek's tech radar](https://github.com/yaneek/tech-radar)
+Fork based [yaneek's tech radar](https://github.com/yaneek/tech-radar) . Thanks.
 Private technology radar based on [Zalando's tech-radar](https://github.com/zalando/tech-radar). Thanks Zalando's team for their code. Base project was completely refactored but visualization concepts still exists :)
 - extracted tens of visualization functions
 - added React library to render filters & footer
@@ -42,3 +42,5 @@ Todo:
 - radar visualization inside React compontents - d3.js & react, unfortunately both libraries works on DOM :(
 - change static data structures into database layer
 - entry names visualization withotut d3.js
+
+### Further enhancements by [pulsarforge software engineer](https://github.com/pulsarforge)
