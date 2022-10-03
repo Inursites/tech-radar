@@ -10,8 +10,8 @@ export const QUADRANTS: IQuadrant[] = [
     tags: ['q1-education'],
   },
   {
-    name: 'DAOs',
-    tags: ['q2-daos'],
+    name: 'Github',
+    tags: ['q2-github'],
   },
   {
     name: 'Web3',

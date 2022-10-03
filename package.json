@@ -1,9 +1,9 @@
 {
-  "name": "tech-radar",
+  "name": "awesome-web3-radar",
   "version": "2021.2.4",
-  "description": "Visualizing technology choices",
+  "description": "Visualizing Web3 space",
   "homepage": "/",
-  "repository": "https://github.com/Inursites/tech-radar.git",
+  "repository": "https://github.com/pulsarforge/tech-radar",
   "license": "MIT",
   "private": true,
   "directories": {

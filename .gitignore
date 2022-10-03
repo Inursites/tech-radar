@@ -4,3 +4,6 @@ node_modules/
 /temp/
 /build/
 /.vscode/
+wrangler.toml
+workers-site
+dist

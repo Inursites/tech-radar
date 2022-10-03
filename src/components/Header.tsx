@@ -10,8 +10,8 @@ export class Header extends React.Component {
       </Typography>
 
       <Typography variant="subtitle1">
-        <a className="social-icon" title="Fork me at github"
-          href="https://github.com/Inursites/tech-radar" target="_BLANK" rel="noopener noreferrer">
+        <a className="social-icon" title="github"
+          href="https://github.com/pulsarforge" target="_BLANK" rel="noopener noreferrer">
           <img alt="github" src={githubLogo}></img>
         </a>
       </Typography>

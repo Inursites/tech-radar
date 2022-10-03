@@ -1,1 +1,1 @@
-export type RingType = 'Short' | 'Medium' | 'Big' | 'Massive';
+export type RingType = 'Starting' | 'Growing' | 'Big' | 'Massive';
